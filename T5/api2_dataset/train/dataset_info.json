@@ -1,0 +1,41 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 65918978,
+  "description": "",
+  "download_checksums": {
+    "D:\\\u738b\u707f2190830726\\02_\u738b\u707f_2190830726_ZX_CL\\T5\\dataset\\dataset_train.json": {
+      "num_bytes": 73800012,
+      "checksum": null
+    }
+  },
+  "download_size": 73800012,
+  "features": {
+    "information": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 139718990,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 65918978,
+      "num_examples": 300000,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
