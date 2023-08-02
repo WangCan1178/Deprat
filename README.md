@@ -26,11 +26,18 @@
 ### API参数描述自动生成平台
 
 - 平台运行于：[Welcome to API parameter descriptions automatic generation platform ](http://172.16.17.43:8501/)，点击可访问
-- 稍后完善
+- 使用方法：
+  - 查看，编辑和管理API
+  - 单击“Generate parameter descriptions”将自动为 **desc栏没有描述的参数** 生成
+  - 使用“Save API information” 以持久化
+  - 使用SPDE进行评估
+  - 质量百分比基准是统计所得数据
+
+- 平台示例：![image-20230802170156782](D:\王灿2190830726\02_王灿_2190830726_ZX_CL\Resources\服务界面.png)
 
 
 
 ### 其它
 
 - 因大小限制，所有的需要的额外库，以及模型训练得到的checkpoint已经删除。
-- 声明：本项目所有
+- 声明：本项目所有权归属，稍后补充
