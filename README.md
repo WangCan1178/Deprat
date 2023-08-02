@@ -18,12 +18,15 @@
 
 ### Deprat数据集
 
+- 快速下载：百度网盘链接https://pan.baidu.com/s/1fsfnSJNzcPvAQjfyBKmZOA?pwd=wcan 提取码：wcan
+- 字段说明：
+
 ![image-20230802130427816](.\Resources\Deprat字段.png)
 
 ### API参数描述自动生成平台
 
 - 平台运行于：[Welcome to API parameter descriptions automatic generation platform ](http://172.16.17.43:8501/)，点击可访问
-- 
+- 稍后完善
 
 
 
