@@ -21,7 +21,7 @@
 - 快速下载：百度网盘链接https://pan.baidu.com/s/1fsfnSJNzcPvAQjfyBKmZOA?pwd=wcan 提取码：wcan
 - 字段说明：
 
-![image-20230802130427816](.\Resources\Deprat字段.png)
+![image-20230802130427816]([.\Resources\Deprat字段.png](https://github.com/W-caner/Deprat/blob/main/Resources/Deprat%E5%AD%97%E6%AE%B5.png))
 
 ### API参数描述自动生成平台
 
