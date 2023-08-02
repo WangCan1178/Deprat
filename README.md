@@ -7,11 +7,18 @@
   - oapi.json：接口粒度数据集
   - params.json：参数粒度数据集
 - Experiments：论文中所提到的基准实验代码与结果
-- Platform：API参数自动注释生成平台
+  - BART，GPT，LSTM，T5，DiffuSeq：所跑实验源码
+  - result：结果文件夹
+    - generate_txt：在测试集上生成的结果文件
+    - log：训练过程中的输出
+    - score.ipynb：应用传统指标以及SPDE进行评价的程序文件
+
+- Platform：API参数自动注释生成平台源码
+- Resources：项目所用其它资源
 
 ### Deprat数据集
 
-![image-20230802130427816](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230802130427816.png)
+![image-20230802130427816](.\Resources\Deprat字段.png)
 
 ### API参数描述自动生成平台
 
