@@ -1,6 +1,6 @@
 ## README
 
-![demo](D:\王灿2190830726\02_王灿_2190830726_ZX_CL\Resources\demo.gif)
+![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
 
 ### 项目结构
 
