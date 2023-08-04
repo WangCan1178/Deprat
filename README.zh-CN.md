@@ -1,10 +1,15 @@
 ## README
 
-![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
+
+
+### 语言
 
 <p align="center">
     <a href = "./README.zh-CN.md">简体中文</a> | <a href = "./README.md">English</a>
 </p>
+
+
+![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
 
 
 
