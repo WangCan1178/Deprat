@@ -2,41 +2,50 @@
 
 ![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
 
-### 项目结构
+<p align="center">
+    <a href = "./README.zh-CN.md">简体中文</a> | <a href = "./README.md">English</a>
+</p>
 
-- Dataset：Deprat数据集，收集了3796 个 API 文档，构成包含122434个访问操作，403106 个参数信息的数据集。
-  - gen_data.ipynb：数据爬取、提取、清理算法
-  - oapi.json：接口粒度数据集
-  - params.json：参数粒度数据集
-- Experiments：论文中所提到的基准实验代码与结果
-  - BART，GPT，LSTM，T5，DiffuSeq：所跑实验源码
-  - result：结果文件夹
-    - generate_txt：在测试集上生成的结果文件
-    - log：训练过程中的输出
-    - score.ipynb：应用传统指标以及SPDE进行评价的程序文件
 
-- Platform：API参数自动注释生成平台源码
-- Resources：项目所用其它资源
 
-### Deprat数据集
+### Project structure
 
-- 快速下载：百度网盘链接https://pan.baidu.com/s/1fsfnSJNzcPvAQjfyBKmZOA?pwd=wcan 提取码：wcan
-- 字段说明：
+- Dataset: Deprat dataset, which collects 3796 API documents, constituting a dataset with 122434 access operations and 403,106 parameter information.
+  - gen_data.ipynb: data crawling, extraction, and cleaning algorithms
+  - oapi.json: Interface granularity dataset
+  - params.json: parameter granularity dataset
+- Experiments: The code and results of the benchmark experiments described in the paper
+  - BART, GPT, LSTM, T5, DiffuSeq: source code of the experiments run
+  - result: The results folder
+    - generate_txt: The resulting file generated on the test set
+    - log: The output during training
+    - score.ipynb: Program file for evaluation using traditional metrics as well as SPDE
+
+- Platform: API parameters are automatically annotated to generate platform source code
+- Resources: Other resources used by the project
+
+### Deprat Dataset
+
+- Quick download: Baidu net disk linkhttps://pan.baidu.com/s/1fsfnSJNzcPvAQjfyBKmZOA?pwd=wcan Extract code: wcan
+- Attribute Description:
 
 ![image-20230802130427816](https://github.com/W-caner/Deprat/blob/main/Resources/Deprat%E5%AD%97%E6%AE%B5.png)
 
-### API参数描述自动生成平台
+### API parameter descriptions automatic generation platform
 
-- 平台运行于：[Welcome to API parameter descriptions automatic generation platform ](http://172.16.17.43:8501/)，点击可访问
-- 使用方法：
-  - 查看，编辑和管理API
-  - 单击“Generate parameter descriptions”将自动为 **desc栏没有描述的参数** 生成
-  - 使用“Save API information” 以持久化
-  - 使用SPDE进行评估
-  - 质量百分比基准是统计所得数据
+- The platform runs on：[Welcome to API parameter descriptions automatic generation platform ](http://172.16.17.43:8501/)，click to visit
+- Usage:
 
+  -  View, edit, and manage API
+  - Clicking on "Generate parameter descriptions" will automatically generate parameter descriptions for **parameters not described in the desc column**
+  - Use "Save API information" for persistence store
+  - Evaluation using SPDE
 
-### 其它
+  
 
-- 因大小限制，所有的需要的额外库，以及模型训练得到的checkpoint已经删除。
-- 声明：本项目所有权归属，稍后补充
+### Others
+
+- Due to size limitations, all additional libraries required and checkpoints for model training have been removed
+- The backend model currently loaded is T5, see the paper for the specific training parameters
+- The quality percentage benchmark displayed by the platform is the statistical data obtained
+- Statement: Ownership of this project, which will be added later
