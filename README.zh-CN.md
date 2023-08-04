@@ -1,5 +1,9 @@
 ## README
 
+![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
+
+***
+
 
 
 ### 语言
@@ -9,7 +13,7 @@
 </p>
 
 
-![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
+
 
 
 

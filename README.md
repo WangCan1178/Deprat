@@ -1,5 +1,9 @@
 ## README
 
+![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
+
+***
+
 
 
 ### Language
@@ -10,7 +14,7 @@
 
 
 
-![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)![demo](https://github.com/W-caner/Deprat/blob/main/Resources/demo.gif)
+
 
 
 
