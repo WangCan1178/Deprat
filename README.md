@@ -44,7 +44,7 @@
 
 ### API parameter descriptions automatic generation platform
 
-- The platform runs on：[Welcome to API parameter descriptions automatic generation platform ](http://172.16.17.43:8501/)，click to visit
+- The platform runs on：[Welcome to API parameter descriptions automatic generation platform ](http://58.59.92.190:49002/)，click to visit
 - Usage:
 
   -  View, edit, and manage API
