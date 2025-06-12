@@ -59,4 +59,7 @@
 - Due to size limitations, all additional libraries required and checkpoints for model training have been removed
 - The backend model currently loaded is T5, see the paper for the specific training parameters
 - The quality percentage benchmark displayed by the platform is the statistical data obtained
+- The research presented in this paper has been partially supported by the National Key R\&D Program of China (Grant No.2022YFF0902703), the National Natural Science Foundation of China (Grant No.62472121), the National Natural Science Foundation of China (Grant No.62306087), 
+and the Special Funding Program of Shandong Taishan Scholars Project. Quan Z. Sheng's work has been partially supported by Australian Research Council (ARC) Discovery Grant DP230100233.
+![image-20230802130427816](https://github.com/W-caner/Deprat/blob/main/Resources/Deprat%E5%AD%97%E6%AE%B5.png)
 - Statement: Ownership of this project, which will be added later
